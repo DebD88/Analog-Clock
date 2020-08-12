@@ -1,1 +1,1 @@
-# Analog-Clock
+Using JavaScript and CSS
